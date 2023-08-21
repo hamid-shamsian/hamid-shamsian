@@ -4,7 +4,6 @@
 ###
 ### For more about me, please visit my personal website: [https://hamidShamsian.com](https://hamidshamsian.com){:target="_blank"}
 ###
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-shamsian&layout=compact&theme=radical)](https://github.com/hamid-shamsian)
  <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-shamsian&show_icons=true&theme=onedark)
