@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamid-shamsian)](https://github.com/anuraghazra/github-readme-stats)
+I'm Hamid. A junior FrontEnd Developer. I'm passionately interested in React.js and now taking a complementary bootcamp on React.js ...
 
+For more about me, please visit my personal website: <a href="https://hamidshamsian.com" target="_blank">https://HamidShamsian.com</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-shamsian)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hamid-shamsian/hamid-shamsian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
