@@ -1,8 +1,9 @@
 ## Hi there 👋
 ###
-### I'm Hamid. A junior FrontEnd Developer. I'm passionately interested in React.js and now taking a complementary bootcamp on that...
 ###
-### For more about me, please visit my personal website: [https://hamidShamsian.com](https://hamidshamsian.com{:target="_blank"})
+### I'm Hamid. A junior FrontEnd Developer. I'm passionately interested in React.js and currently going through a complementary bootcamp on it...
+###
+### For more about me, please visit my personal website: [hamidshamsian.com](https://hamidshamsian.com)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamid-shamsian&layout=compact&theme=radical)](https://github.com/hamid-shamsian)
  <br>
@@ -40,9 +41,6 @@
    <a target="_blank" href="https://github.com/"><img
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="30"
        height="30" /></a>
-   <a target="_blank" href="https://webpack.js.org/"><img
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
-       width="30" height="30" /></a>
 </p> 
 
 
