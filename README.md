@@ -1,7 +1,7 @@
 ## Hi there 👋
 ###
 ###
-### I'm Hamid. A junior FrontEnd Developer. I'm passionately interested in React.js and currently going through a complementary bootcamp on it...
+### I'm Hamid. A Passionate FrontEnd Developer Specialized in React.js
 ###
 ### For more about me, please visit my personal website: [hamidshamsian.com](https://hamidshamsian.com)
 ###
